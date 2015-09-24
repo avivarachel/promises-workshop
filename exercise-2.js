@@ -19,7 +19,7 @@ function getFirstChar(string){
     });
 }
 
-delay(1000).then(function(){
+delay(500).then(function(){
     
     
     return getFirstChar("Alphabet");
